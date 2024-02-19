@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+
+<Aptech>
+    <student>
+        <id>1011</id>
+        <name>Rizwan</name>
+        <age>23</age>
+        <address>Sfc</address>
+    </student>
+
+    <student>
+        <id>1012</id>
+        <name>Salman</name>
+        <age>25</age>
+        <address>Malir</address>
+    </student>
+
+    <student>
+        <id>1013</id>
+        <name>Zaman</name>
+        <age>27</age>
+        <address>Gulshan</address>
+    </student>
+
+    <student>
+        <id>1014</id>
+        <name>Fakhar</name>
+        <age>29</age>
+        <address>Saddar</address>
+    </student>
+
+    <student>
+        <id>1015</id>
+        <name>Haris</name>
+        <age>31</age>
+        <address>Korangi</address>
+    </student>
+
+</Aptech>
